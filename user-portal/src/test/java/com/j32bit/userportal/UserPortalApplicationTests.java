@@ -1,4 +1,4 @@
-package com.devglan.userportal;
+package com.j32bit.userportal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
